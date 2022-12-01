@@ -10,3 +10,6 @@ img{
 #jess{
     width: 280px;
 }
+a, a:hover{
+    color: darkgoldenrod;
+}
