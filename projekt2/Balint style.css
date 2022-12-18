@@ -1,17 +1,9 @@
 body{
-     background-color:darksalmon;
+    background-color:beige;
 }
-h1{
+#center{
     text-align: center;
 }
-li{
-    font-size: 30px;
-}
-div{
-    background-color: aliceblue;
-}
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#table{
+    border-color: black;
 }
