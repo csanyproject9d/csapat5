@@ -1,3 +1,10 @@
 body{
     background-color: aqua;
 }
+img {
+    float: right;
+  }
+  div {
+    border: 1px solid red;
+    margin-left: 100px;
+  }
