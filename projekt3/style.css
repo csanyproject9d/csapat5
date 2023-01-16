@@ -1,3 +1,10 @@
 body{
     background-color: cadetblue;
 }
+a:link, a:visited, a:active{
+    color: gold;
+    background-color: rgb(84, 145, 206);
+}
+ul.nav a:hover{
+    color: goldenrod;
+}
