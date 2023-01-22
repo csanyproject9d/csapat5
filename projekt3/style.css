@@ -8,3 +8,12 @@ a:link, a:visited, a:active{
 ul.nav a:hover{
     color: goldenrod;
 }
+h2, li{
+    color: white;
+}
+img{
+    width: 300px;
+}
+#mick{
+    width: 420px;
+}
