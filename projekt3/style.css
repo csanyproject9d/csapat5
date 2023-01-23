@@ -8,7 +8,7 @@ a:link, a:visited, a:active{
 ul.nav a:hover{
     color: goldenrod;
 }
-h2, li{
+h1, h2, li, hr{
     color: white;
 }
 img{
