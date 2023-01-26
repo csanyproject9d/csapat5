@@ -8,7 +8,7 @@ a:link, a:visited, a:active{
 ul.nav a:hover{
     color: goldenrod;
 }
-h1, h2, li, hr{
+h1, h2, h5,li, hr{
     color: white;
 }
 img{
@@ -16,4 +16,10 @@ img{
 }
 #mick{
     width: 420px;
+}
+#k{
+    width: 150px;
+}
+#k2{
+    width: 200px;
 }
