@@ -1,5 +1,5 @@
 body{
-    background-color:darkgrey;
+    background-color:black;
 }
 h1{
     text-align: center;
@@ -7,6 +7,19 @@ h1{
 }
 #kép{
     float: right;
+    border: 3px solid;
+    border-color: gray
+}
+p{
+    color: white;
+}
+.center{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+hr{
+    color: white;
 }
     
 
