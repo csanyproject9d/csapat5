@@ -1,6 +1,9 @@
 body{
     background-color:black;
 }
+.container{
+    background-color: darkgrey;
+}
 h1{
     text-align: center;
     color: white;
@@ -21,7 +24,9 @@ p{
 hr{
     color: white;
 }
-    
+table{
+    color: white;
+} 
 
 
     
