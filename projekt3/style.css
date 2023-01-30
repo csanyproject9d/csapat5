@@ -8,7 +8,7 @@ a:link, a:visited, a:active{
 ul.nav a:hover{
     color: goldenrod;
 }
-h1, h2, h5,li, hr{
+h1, h2, h5,li, hr, tr, p{
     color: white;
 }
 img{
@@ -22,4 +22,13 @@ img{
 }
 #k2{
     width: 200px;
+}
+#Daniel{
+    width: 450px;
+}
+#Dan{
+    width: 250px;
+}
+#Ben{
+    width: 350px;
 }
